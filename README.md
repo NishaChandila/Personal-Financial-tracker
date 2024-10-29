@@ -25,7 +25,7 @@ The dataset, based on User’s bank statements from August and September 2019, i
 
 These columns enable a thorough view of income, expenses, and savings trends for better financial insight.
 
-![Data Structure Image](link_to_your_data_structure_image)
+![Data Structure Image](lhttps://github.com/NishaChandila/project-assets/blob/main/personal_data.PNG)
 
 - Dataset used can be found [here](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/banking-statment-dataset.csv).
 
