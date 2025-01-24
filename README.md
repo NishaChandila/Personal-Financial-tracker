@@ -5,9 +5,9 @@
 
 This is the User’s Personal Finance Dashboard, providing a clear overview of income, expenses, savings, and spending habits from August to September 2019. The dashboard offers insights into where money is flowing in and out, highlighting key patterns in spending categories, daily habits, and overall savings progress. Designed for quick, actionable understanding, this tool helps users track financial health and make informed adjustments to reach their goals.
 
-- Python code can be found [here](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/Personal%20Financial%20tracker.ipynb).
-- Dataset used can be found [here](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/banking-statment-dataset.csv).
-- Power BI dashboard can be found [here](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/Personal-Finance-Dashboard.pdf).
+- Personal Finance [Python EDA](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/Personal%20Financial%20tracker.ipynb).
+- Personal Finance [Dataset](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/banking-statment-dataset.csv).
+- Personal Finance [Power BI Dashboard](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/Personal-Finance-Dashboard.pdf).
 
 ---
 
@@ -27,8 +27,7 @@ These columns enable a thorough view of income, expenses, and savings trends for
 
 ![Data-image](https://github.com/NishaChandila/project-assets/blob/main/personal_data.PNG?raw=true)
 
-- Dataset used can be found [here](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/banking-statment-dataset.csv).
-
+- Personal Finance [Dataset](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/banking-statment-dataset.csv).
 ---
 
 ## Executive Findings
@@ -40,7 +39,7 @@ The analysis reveals key findings regarding the user's financial activity over A
 
 ![Executive Summary Image](https://github.com/NishaChandila/project-assets/blob/main/finance2.PNG)
 
-- Power BI dashboard can be found [here](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/Personal-Finance-Dashboard.pdf).
+- Personal Finance [Power BI Dashboard](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/Personal-Finance-Dashboard.pdf).
 
 ---
 
@@ -52,7 +51,7 @@ The analysis reveals key findings regarding the user's financial activity over A
 - **Forecasting Techniques**: ARIMA (AutoRegressive Integrated Moving Average) was utilized to forecast future trends in income and expenses.
 - **Predictive Modeling**: The predictive model generated valuable insights for financial planning, helping the user make informed decisions based on anticipated cash flow and spending patterns.
 
-- Python code can be found [here](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/Personal%20Financial%20tracker.ipynb).
+- Personal Finance [Python EDA](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/Personal%20Financial%20tracker.ipynb).
 
 ---
 
@@ -66,6 +65,6 @@ The analysis reveals key findings regarding the user's financial activity over A
 
 These recommendations offer a path to boost savings and optimize spending habits.
 
-- Python code can be found [here](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/Personal%20Financial%20tracker.ipynb).
-- Dataset used can be found [here](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/banking-statment-dataset.csv).
-- Power BI dashboard can be found [here](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/Personal-Finance-Dashboard.pdf).
+- Personal Finance [Python EDA](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/Personal%20Financial%20tracker.ipynb).
+- Personal Finance [Dataset](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/banking-statment-dataset.csv).
+- Personal Finance [Power BI Dashboard](https://github.com/NishaChandila/Personal-Financial-tracker/blob/main/Personal-Finance-Dashboard.pdf).
